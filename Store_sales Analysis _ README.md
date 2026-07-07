@@ -5,6 +5,12 @@ Sales data analysis project focused on uncovering key insights from a retail sal
 
 ---
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
 ## Project Description – Superstore Sales Analysis
 
 **Overview:**
@@ -150,10 +156,10 @@ Added slicers for user-driven exploration across multiple dimensions.
 
 ---
 
-## Conclusion
+---
 
-This Superstore Sales Analysis project demonstrates the power of combining SQL for robust data analysis and Power BI for interactive visualizations. By diving into customer behavior, sales patterns, and profitability drivers, we derived actionable insights that can help guide strategic decisions in marketing, inventory management, and customer retention.
+## 👤 Author
 
-
-The findings highlight the importance of customer segmentation, discount optimization, and regional strategies to maximize profit. With a data-driven approach, businesses can significantly improve their decision-making capabilities and overall performance.
+**Ritvik Shetty**  
+[LinkedIn](https://www.linkedin.com/in/ritvikshetty23/) · [GitHub](https://github.com/RitvikShetty17)
 
